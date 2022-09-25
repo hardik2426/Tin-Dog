@@ -176,6 +176,7 @@ p {
         transform: rotate(0);
         width: 20%;
         Height: 60%;
+        left: 8px;
     }
 }
 
